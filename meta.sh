@@ -322,6 +322,6 @@ sleep 1
 echo "7    h   l        8      6      h    k  ll   0   7   *     i   t"
 echo ""
 setterm -foreground red
-echo -e "\e[1;37;41mDRROR\e[0m \e[1;37mno se pudo desifrar la contraseña\e[0m \e[1;31m[x]\e[0m"
+echo -e "\e[1;37;41mERROR\e[0m \e[1;37mno se pudo desifrar la contraseña\e[0m \e[1;31m[x]\e[0m"
 
  
