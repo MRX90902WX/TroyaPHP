@@ -1,7 +1,7 @@
 # TroyaPHP
 Este script genera un backdoor php y dos archivos el uno es facebook.sh que es el script donde se esconde el backdoor el otro es meta.sh el cual lo camufla , para hacer el backdoor deben tener metasploit y ngrok en su termux.
 
-Clonar el repositorio git clone https://github.com/MRX90902WX/BackPHP
+Clonar el repositorio git clone https://github.com/MRX90902WX/TroyaPHP
 
 cd TroyaPHP
 
