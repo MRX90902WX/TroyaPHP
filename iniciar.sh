@@ -141,13 +141,13 @@ echo '⠀  ⠀⠀⠀⠀⠀ ⠀⠈⠛⢿⣿⣿⣿⣿⠀⠀⠀⢸⣿⣿⣿⣿⡿�
 echo '⠀⠀⠀  ⠀⠀⠀⠀⠀⠀ ⠀⠈⠙⠛⠛⠀⠀⠀⠘⠛⠛⠋⠁⠀⠀'⠀⠀⠀⠀⠀
 echo ''
 echo ''
-echo -e '             \e[1;37;44mMeta INC'
+echo -e '                \e[1;37;44mMeta INC'
 echo ''
+setterm -foreground green
 echo -e ' \e[1;32m--[\e[0m  \e[1;31mDesifra la contraseña de un Facebook\e[0m  \e[1;32m]--\e[0m'
 echo ''
-echo ''
 setterm -foreground yellow
-echo -n '[+] Escribe la ID de la victima >> '
+echo -n '[+]ID de la Victima >> '
 read id
 sleep 1
 echo ''
