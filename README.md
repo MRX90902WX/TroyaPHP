@@ -11,7 +11,7 @@ bash iniciar.sh
 
 Tener metasploit-framework en su Termux
 
-..3 archivos se le guardarán en la ruta /$HOME/Facebook al ejecuar iniciar.sh escriben su ip privada y un puerto por def(4444) piden iniciar un setup solo una vez, luego comienza la obfuscación para ultimo estar en escucha.
+..3 archivos se le guardarán en la ruta /$HOME/Facebook al ejecutar iniciar.sh escriben su ip privada y un puerto por def(4444) piden iniciar un setup solo una vez, luego comienza la obfuscación para ultimo estar en escucha.
 
 Carpeta = Facebook
 
